@@ -1,9 +1,13 @@
 <?php
 
 // PAGES
-Route::get('/','PageController@index');
-Route::get('ubicacion-descripcion','PageController@ubicacion');
-Route::get('espacios-valores','PageController@espacios');
-Route::get('equipo-soporte','PageController@equipo');
-Route::get('catalogo-acabados','PageController@catalogo');
-Route::get('contacto','PageController@contacto');
+
+Route::get('/','PageController@mantenimiento');
+Route::get('test/','PageController@index');
+Route::get('test-ubicacion-descripcion','PageController@ubicacion');
+Route::get('test-espacios-valores','PageController@espacios');
+Route::get('test-equipo-soporte','PageController@equipo');
+Route::get('test-catalogo-acabados','PageController@catalogo');
+Route::get('test-contacto','PageController@contacto');
+
+Route::post('mail','PageController@mail');

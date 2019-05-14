@@ -1,0 +1,136 @@
+/* TIPOGRAFIAS */
+@font-face {
+  font-family: "nexa-light";
+  src: local('nexa-light'),
+      url("/fonts/nexa-light.otf") format("opentype");
+}
+@font-face {
+  font-family: "nexa-bold";
+  src: local('nexa-bold'),
+      url("/fonts/nexabold.otf") format("opentype");
+}
+a,h1,h2,h3,h4,h5,h6,p,input,button{
+  font-family: "nexa-light";
+}
+b{
+  font-family: 'nexa-bold';
+}
+/* Estilos */
+
+
+.home_slider .background_image{
+  opacity: 1;
+}
+label{
+  margin:0px;
+}
+
+.form-group{
+  margin: 2px;
+}
+.btn-primary{
+  border-radius: 0px;
+  background-color: #be000a;
+  float: right;
+  margin-bottom: 10px;
+  border: none;
+}
+
+.form{
+  width: 90%;
+  margin: auto;
+}
+.form input, .form textarea, .form select{
+  border-radius: 0px;
+  background-color: rgba(255, 255, 255, 0.5);
+  color:black;
+}
+a:hover{
+  color:  #be000a;
+}
+.pd-2{
+  padding: 20px;
+}
+.mt4{
+    margin-top: 10px;
+}
+.mtn{
+  padding: 10px;
+  margin-top: -50px;
+  z-index: 50;
+}
+.txt-white{
+    color:white;
+}
+.bg-red{
+	background-color: #be000a;
+}
+
+.bg-gray{
+  background-color: #404040;
+
+}
+.bg-gray-light{
+	background-color: #f7f7f8; 
+}
+.formulario{
+    width: 510px;
+    background-color: rgb(0,0,0,0.5);
+    position: absolute;
+    z-index: 2;
+    margin-top: 160px;
+    margin-left: 50px;
+    letter-spacing: 2px;
+  }
+  .formulario2{
+    width: 510px;
+    background-color: rgb(0,0,0,0.5);
+    position: absolute;
+    z-index: 999;
+    margin-top: 55px;
+    letter-spacing: 2px;
+}  
+.formulario p{
+  line-height:15px;
+  color: #edeef0;
+}
+
+.txt-white{
+  color:white;
+}
+.txt-yellow{
+  color:yellow;
+}
+.centrado{
+  margin-left: auto !important;
+}
+.small-logo{
+  height: 30px;
+}
+.medium-logo{
+  height: 50px;
+}
+
+/* Estilos para movil */
+@media (max-width: 600px) {
+  .only-desk {
+    display: none;
+  }
+  .formulario{
+    margin-left:  1%;
+    width: 98% !important;
+    margin-top: 80px;
+  }
+  .formulario2{
+    margin-top: 20px;
+  }
+  .mtn{
+    margin-top:50px; 
+  }
+  .btn-primary{
+    float: none;
+    width: 100%;
+    margin: 0px;
+  }
+}
+/* Fin estilos movil */

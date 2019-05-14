@@ -568,7 +568,7 @@ section
 .home_slider_dots_container
 {
 	position: absolute;
-	left: 61px;
+	left: 47%;
 	bottom: 39px;
 	z-index: 1;
 }
@@ -590,7 +590,7 @@ section
 .home_slider_custom_dots li.active,
 .home_slider_custom_dots li:hover
 {
-	color: #ffa37b;
+	color: red;
 }
 .home_slider .slide
 {

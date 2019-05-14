@@ -6,8 +6,8 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="description" content="The River template project">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
-            <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+           	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		   	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
             <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.carousel.css">
             <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/owl.theme.default.css">
             <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.3.4/animate.css">
@@ -15,6 +15,7 @@
             <link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
             <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
             <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+            <link rel="stylesheet" type="text/css" href="css/estilos.css">
         </head>
 <body>
 
@@ -24,35 +25,35 @@
 
 	<header class="header">
 		<div class="header_content d-flex flex-row align-items-center justify-content-start">
-			<div class="logo"><a href="/" >Logo</a></div>
+			<div class="logo"><a href="/test" >Logo</a></div>
 			<div class="ml-auto d-flex flex-row align-items-center justify-content-start">
 				<nav class="main_nav">
 					<ul class="d-flex flex-row align-items-start justify-content-start">
-						<li class="{{ Request::is('/') ? 'active' : ''}}">
-							<a href="/">Home</a>
+						<li class="{{ Request::is('test') ? 'active' : ''}} mt4">
+							<a href="/test">Home</a>
 						</li>
-						<li class="{{ Request::is('ubicacion-descripcion') ? 'active' : ''}}">
-							<a href="/ubicacion-descripcion">
+						<li class="{{ Request::is('test-ubicacion-descripcion') ? 'active' : ''}}">
+							<a href="/test-ubicacion-descripcion">
 								UBICACIÓN + <br>DESCRIPCIÓN
 							</a>
 						</li>
-						<li class="{{ Request::is('espacios-valores') ? 'active' : ''}}">
-							<a href="/espacios-valores">
+						<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}}">
+							<a href="/test-espacios-valores">
 								ESPACIOS<br>+ VALORES
 							</a>
 						</li >
-						<li class="{{ Request::is('equipo-soporte') ? 'active' : ''}}">
-							<a href="/equipo-soporte">
+						<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
+							<a href="/test-equipo-soporte">
 								EQUIPO + <br>SOPORTE
 							</a>
 						</li>
-						<li  class="{{ Request::is('catalogo-acabados') ? 'active' : ''}}">
-							<a href="/catalogo-acabados">
+						<li  class="{{ Request::is('test-catalogo-acabados') ? 'active' : ''}}">
+							<a href="/test-catalogo-acabados">
 								CATALOGO DE<br>+ ACABADOS
 							</a>
 						</li>
-						<li class="{{ Request::is('contacto') ? 'active' : ''}}">
-							<a href="/contacto">
+						<li class="{{ Request::is('test-contacto') ? 'active' : ''}} mt4">
+							<a href="/test-contacto">
 								CONTACTO
 							</a>
 						</li>
@@ -71,12 +72,34 @@
 		<div class="menu_content">
 			<nav class="menu_nav text-right">
 				<ul>
-                    <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="about.html">UBICACIÓN +  DESCRIPCIÓN</a></a></li>
-                    <li><a href="#">ESPACIOS + VALORES</a></a></li>
-                    <li><a href="blog.html">EQUIPO +  SOPORTE</a></a></li>
-                    <li><a href="blog.html">CATALOGO DE + ACABADOS</a></a></li>
-                    <li><a href="contact.html">CONTACTO</a></li>
+					<li class="{{ Request::is('/test') ? 'active' : ''}} ">
+						<a href="/test" class="mt-4">Home</a> <hr>
+					</li>
+					<li class="{{ Request::is('test-ubicacion-descripcion') ? 'active' : ''}}">
+						<a href="/test-ubicacion-descripcion">
+							UBICACIÓN + DESCRIPCIÓN
+						</a> <hr>
+					</li>
+					<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}}">
+						<a href="/test-espacios-valores">
+							ESPACIOS + VALORES
+						</a> <hr>
+					</li >
+					<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
+						<a href="/test-equipo-soporte">
+							EQUIPO + SOPORTE
+						</a> <hr>
+					</li>
+					<li  class="{{ Request::is('test-catalogo-acabados') ? 'active' : ''}}">
+						<a href="/test-catalogo-acabados">
+							CATALOGO DE + ACABADOS
+						</a> <hr>
+					</li>
+					<li class="{{ Request::is('test-contacto') ? 'active' : ''}}">
+						<a href="/test-contacto">
+							CONTACTO
+						</a> <hr>
+					</li>
 				</ul>
 			</nav>
 		</div>
@@ -86,77 +109,13 @@
 	<!-- Footer -->
 
 	<footer class="footer">
-		<div class="footer_content">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<div class="footer_logo_container text-center">
-							<div class="footer_logo">
-								<a href="#"></a>
-								<div>The River</div>
-								<div>since 1945</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row footer_row">
-					
-					<!-- Address -->
-					<div class="col-lg-3">
-						<div class="footer_title">Our Address</div>
-						<div class="footer_list">
-							<ul>
-								<li>Beach Str. 345</li>
-								<li>67559 Miami</li>
-								<li>USA</li>
-							</ul>
-						</div>
-					</div>
-
-					<!-- Reservations -->
-					<div class="col-lg-3">
-						<div class="footer_title">Reservations</div>
-						<div class="footer_list">
-							<ul>
-								<li>Tel: 345 5667 889</li>
-								<li>Fax; 6783 4567 889</li>
-								<li>reservations@hotelriver.com</li>
-							</ul>
-						</div>
-					</div>
-
-					<!-- Newsletter -->
-					<div class="col-lg-3">
-						<div class="footer_title">Newsletter</div>
-						<div class="newsletter_container">
-							<form action="#" class="newsletter_form" id="newsletter_form">
-								<input type="email" class="newsletter_input" placeholder="Your email address" required="required">
-								<button class="newsletter_button">Subscribe</button>
-							</form>
-						</div>
-					</div>
-
-					<!-- Footer images -->
-					<div class="col-lg-3">
-						<div class="certificates d-flex flex-row align-items-start justify-content-lg-between justify-content-start flex-lg-nowrap flex-wrap">
-							<div class="cert"><img src="images/cert_1.png" alt=""></div>
-							<div class="cert"><img src="images/cert_2.png" alt=""></div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="copyright">
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</div>
+		<p class="text-center bg-gray">Contenido</p>
 	</footer>
 </div>
 
-<script src="js/jquery-3.3.1.min.js"></script>
-<script src="styles/bootstrap-4.1.2/popper.js"></script>
-<script src="styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script src="plugins/greensock/TweenMax.min.js"></script>
 <script src="plugins/greensock/TimelineMax.min.js"></script>
 <script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
