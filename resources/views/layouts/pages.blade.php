@@ -25,7 +25,13 @@
 
 	<header class="header">
 		<div class="header_content d-flex flex-row align-items-center justify-content-start">
-			<div class="logo"><a href="/test" >Logo</a></div>
+				<div class="logo only-movil"><a href="/"><img src="{{asset('images/EXPORTS_logo_38.png') }}" alt=""></a></div>
+			<div class=""><a href="/test" >            <div class="only-desk">
+					<a href=""><img class="small-logo" src="{{asset('images/EXPORTS_fb.png') }}"></a>
+					<a href=""><img class="small-logo" src="{{asset('images/EXPORTS_ig.png') }}"></a>
+					<a href=""><img class="medium-logo" src="{{asset('images/EXPORTS_logo_38.png') }}"></a>
+					<a href=""><img class="medium-logo" src="{{asset('images/EXPORTS_logo_damasco.png') }}"></a>
+				</div></a></div>
 			<div class="ml-auto d-flex flex-row align-items-center justify-content-start">
 				<nav class="main_nav">
 					<ul class="d-flex flex-row align-items-start justify-content-start">
@@ -105,12 +111,37 @@
 		</div>
 	</div>
 
-    @yield('content')
+	@yield('content')
+	<h3 class="text-center tex-gray mt-4"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
+	<div class="container">
+	<div class="row mt-4">
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_01.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_02.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_03.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_04.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_05.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_06.png')}} ">
+		</div>
+	</div>
+	</div>	
 	<!-- Footer -->
 
-	<footer class="footer">
-		<p class="text-center bg-gray">Contenido</p>
-	</footer>
+	<footer class="footer d-flex justify-content-center">
+			<a href="http://www.casacreativa.co/" target="blank">
+				<img height="30px" src="{{asset('images/EXPORTS_casa_creativa.png')}} ">
+			</a>
+		</footer>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

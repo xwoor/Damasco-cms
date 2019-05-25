@@ -26,10 +26,10 @@
 	<header class="header">
 		<div class="header_content d-flex flex-row align-items-center justify-content-between">
 			<div>
-                <a class="txt-yellow" href="/" >PAGINA EN CONTRRUCCIÓN +</a>
+                <a class="txt-yellow" href="/" >PÁGINA EN CONSTRUCCIÓN +</a>
             </div>
             <div>
-                <a href="/" class="txt-white">BIENVENIDOS A <img class="medium-logo" src="{{asset('images/EXPORTS_logo_38.png') }}"></a>
+                <a href="/" class="txt-white">BIENVENIDOS A <img class="medium-logo" src="{{asset('images/30_plus.png') }}"></a>
             </div>
             <div class="only-desk">
                 <a href=""><img class="small-logo" src="{{asset('images/EXPORTS_fb.png') }}"></a>

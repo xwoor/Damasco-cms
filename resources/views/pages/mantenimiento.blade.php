@@ -3,8 +3,20 @@
     
 @section('content')
 <div class="formulario">
+	@if(session('mensaje'))
+	<div class="alert alert-success alert-dismissible fade show" role="alert">
+  <strong> {{ session('mensaje')}}
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+	@endif
         <p class="txt-white pd-2 text-justify">
-			Es la <b> OPORTUNIDAD DE INVERTIR</b> en un proyecto innovador, con multiples beneficios y al <b> MEJOR PRECIO POR m2</b> de la zona. Una compra inteligente con <b>amplio plazo</b> para pago de cuota inicial. Escríbenos y te contacteramos lo mas pronto posible.
+			Es la <b> OPORTUNIDAD DE INVERTIR</b> 
+			en un proyecto innovador, con multiples beneficios y al 
+			<b> MEJOR PRECIO POR m2</b> de la zona. Una compra inteligente con 
+			<b>amplio plazo</b> 
+			para pago de cuota inicial. Escríbenos y te contactaremos lo más pronto posible.
 		</p>
 			<form action="/mail" method="POST" class="form">
 				@csrf
@@ -28,7 +40,7 @@
 				</div>
 
 				<div class="form-group">
-				  <label for="">N CELULAR</label>
+				  <label for="">Nº  CELULAR</label>
 				  <input type="text" class="form-control" name="celular" required>
 				</div>
 				<div class="form-group">
@@ -39,12 +51,7 @@
 
 			</form>
 			<div class="formulario2">
-					<p class="txt-white pd-2 text-justify">
-						APTOS. DESDE <br>	
-						$ <b>157’</b>200.000 A $ 321’932.000 <br>
-						ÁREA CONSTRUIDA DESDE <br>
-						39.30 m2 A 78.52 m2							
-					</p>
+					<img src=" {{asset('images/precio_img.png')}} " alt="">
 			</div>
 		</div>
 	<div class="home">
@@ -98,7 +105,8 @@
 		</div>
 	</div> 
 	{{-- NEXT SECTION --}}
-	<div class=" bg-gray pd-2 txt-white">
+
+	<div class=" bg-gray pd-2 pb-150 txt-white ">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 col-xs-12">
@@ -151,5 +159,26 @@
 	</div>
 	<br>
 	<h3 class="text-center tex-gray"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
-					
+	<div class="container">
+	<div class="row mt-4">
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_01.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_02.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_03.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_04.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_05.png')}} ">
+		</div>
+		<div class="col-4 col-lg-2 mt-4">
+			<img src=" {{asset('images/clientes_img_06.png')}} ">
+		</div>
+	</div>
+	</div>		
 @endsection

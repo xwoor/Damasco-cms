@@ -2,56 +2,55 @@
 @section('title','Home')
     
 @section('content')
-	<!-- Testimonials -->
 
-	<div class="testimonials">
-            <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/testimonials.jpg" data-speed="0.8"></div>
-            <div class="testimonials_overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col">
-                        <div class="testimonials_slider_container">
-    
-                            <!-- Testimonials Slider -->
-                            <div class="owl-carousel owl-theme test_slider">
-                                
-                                <!-- Slide -->
-                                <div  class="test_slider_item text-center">
-                                    <div class="rating rating_5 d-flex flex-row align-items-start justify-content-center"><i></i><i></i><i></i><i></i><i></i></div>
-                                    <div class="testimonial_title"><a href="#">Perfect Stay</a></div>
-                                    <div class="testimonial_text">
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odio vestibulum est mattis effic.</p>
-                                    </div>
-                                    <div class="testimonial_image"><img src="images/user_1.jpg" alt=""></div>
-                                    <div class="testimonial_author"><a href="#">Samantha Smith</a>, Greece</div>
-                                </div>
-    
-                                <!-- Slide -->
-                                <div  class="test_slider_item text-center">
-                                    <div class="rating rating_5 d-flex flex-row align-items-start justify-content-center"><i></i><i></i><i></i><i></i><i></i></div>
-                                    <div class="testimonial_title"><a href="#">Nice place</a></div>
-                                    <div class="testimonial_text">
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odio vestibulum est mattis effic.</p>
-                                    </div>
-                                    <div class="testimonial_image"><img src="images/user_2.jpg" alt=""></div>
-                                    <div class="testimonial_author"><a href="#">Michael Doe</a>, Italy</div>
-                                </div>
-    
-                                <!-- Slide -->
-                                <div  class="test_slider_item text-center">
-                                    <div class="rating rating_5 d-flex flex-row align-items-start justify-content-center"><i></i><i></i><i></i><i></i><i></i></div>
-                                    <div class="testimonial_title"><a href="#">We loved it</a></div>
-                                    <div class="testimonial_text">
-                                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit amet tellus blandit. Etiam nec odio vestibulum est mattis effic.</p>
-                                    </div>
-                                    <div class="testimonial_image"><img src="images/user_3.jpg" alt=""></div>
-                                    <div class="testimonial_author"><a href="#">Luis Garcia</a>, Spain</div>
-                                </div>
-    
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<div class="formulario ">
+        <div class="formulario2 mt-200">
+                <img src=" {{asset('images/precio_img.png')}} " alt="">
+        </div>
+    </div>
+<div class="home">
+    <div class="home_slider_container">
+        <div class="owl-carousel owl-theme home_slider">				
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B3.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B4.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B5.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B6.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B7.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B8.jpg)"></div>
             </div>
         </div>
+        
+        <!-- Home Slider Dots -->
+        <div class="home_slider_dots_container">
+            <div class="home_slider_dots">
+                <ul id="home_slider_custom_dots" class="home_slider_custom_dots d-flex flex-row align-items-start justify-content-start">
+                    <li class="home_slider_custom_dot active"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</div> 
 @endsection

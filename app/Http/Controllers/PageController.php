@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Mail\SendEmail;
 use Mail;
+use Session;
+use Redirect;
+
 
 class PageController extends Controller
 {
@@ -30,14 +33,12 @@ class PageController extends Controller
         return view('pages.contacto');
     }
     public function mail(Request $request){
-
-        $datos['name'] = $request->input('nombre');
-        $datos['email'] = $request->input('email');
-        $datos['intereses'] = $request->input('intereses');
-        $datos['celular'] = $request->input('celular');
-        $datos['mensaje'] = $request->input('mensaje');
-        $toEmail = "marioosorio714@gmail.com";
-        Mail::to($toEmail)->send(new sendEmail($datos));
-        return 'Email has been sent to '. $toEmail;
+        
+        Mail::send('emails.contact', $request->all(), function($mensaje){
+            $mensaje->subject('Correo de Contacto');
+            $mensaje->to('info@proyectosdamasco.com');
+        });
+        Session::flash('mensaje','Email enviado exitosamente ');
+        return Redirect::to('');
     }
 }

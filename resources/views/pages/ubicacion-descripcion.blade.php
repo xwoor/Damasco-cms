@@ -2,50 +2,115 @@
 @section('title','Home')
     
 @section('content')
-	<!-- Booking -->
-
-	<div class="booking">
+<div class="formulario ">
+        <div class="formulario2 mt-200">
+                <img src=" {{asset('images/precio_img.png')}} " alt="">
+        </div>
+    </div>
+<div class="home">
+    <div class="home_slider_container">
+        <div class="owl-carousel owl-theme home_slider">				
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B2.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B3.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B4.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B5.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B6.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B7.jpg)"></div>
+            </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="background_image" style="background-image:url(images/slider/38-PLUS-B8.jpg)"></div>
+            </div>
+        </div>
+        
+        <!-- Home Slider Dots -->
+        <div class="home_slider_dots_container">
+            <div class="home_slider_dots">
+                <ul id="home_slider_custom_dots" class="home_slider_custom_dots d-flex flex-row align-items-start justify-content-start">
+                    <li class="home_slider_custom_dot active"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                    <li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+</div> 
+    {{-- NEXT SECTION --}}
+    <div class="bg-gray pd-2">
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <div class="booking_title text-center"><h2>Book a room</h2></div>
-                        <div class="booking_text text-center">
-                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse nec faucibus velit. Quisque eleifend orci ipsum, a bibendum lacus suscipit sit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse nec faucibus velit. Quisque eleifend orci ipsum, a bibendum lacus suscipit sit.</p>
-                        </div>
-    
-                        <!-- Booking Slider -->
-                        <div class="booking_slider_container">
-                            <div class="owl-carousel owl-theme booking_slider">
-                                
-                                <!-- Slide -->
-                                <div class="booking_item">
-                                    <div class="background_image" style="background-image:url(images/booking_1.jpg)"></div>
-                                    <div class="booking_overlay trans_200"></div>
-                                    <div class="booking_price">$120/Night</div>
-                                    <div class="booking_link"><a href="booking.html">Family Room</a></div>
+                        <h3 class="txt-white"><b>PUENTE ARANDA.</b> UNA</h3>
+                        <h3 class="txt-white">LOCALIDAD CON <b>TRADICIÓN</b></h3>
+                        <h3 class="txt-white">Y<b> DESARROLLO PALPITANTE</b></h3>
+                    </div>
+                    <div class="col">
+                        <p class="txt-white text-justify">
+                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod tincidunt ut laoreet dolore magna Lorem
+                                ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{-- NEXT-SECTION --}}
+        <div class="booking">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <!-- Booking Slider -->
+                            <div class="booking_slider_container">
+                                <div class="owl-carousel owl-theme booking_slider">		
+                                    <!-- Slide -->
+                                    <div class="booking_item">
+                                            <div class="background_image" style="background-image:url(images/booking_1.jpg)"></div>
+                                        <div class="booking_overlay trans_200"></div>
+                                        <div class="booking_link naranja"><a href="#">VIAS + INFRAESTRUCTURA + TRANSPORTE</a></div>
+                                    </div>
+        
+                                    <!-- Slide -->
+                                    <div class="booking_item">
+                                        <div class="background_image" style="background-image:url(images/booking_2.jpg)"></div>
+                                        <div class="booking_overlay trans_200"></div>
+                                        <div class="booking_link naranja"><a href="#">LUGARES DE INTERES + OCIO + ENTRETENIMIENTO</a></div>
+                                    </div>
+        
+                                    <!-- Slide -->
+                                    <div class="booking_item">
+                                        <div class="background_image" style="background-image:url(images/booking_3.jpg)"></div>
+                                        <div class="booking_overlay trans_200"></div>
+                                        <div class="booking_link naranja"><a href="#">COLEGIOS + UNIVERSIDADES
+                                                + SERV. INSTITUCIONALES </a></div>
+                                    </div>
+        
                                 </div>
-    
-                                <!-- Slide -->
-                                <div class="booking_item">
-                                    <div class="background_image" style="background-image:url(images/booking_2.jpg)"></div>
-                                    <div class="booking_overlay trans_200"></div>
-                                    <div class="booking_price">$120/Night</div>
-                                    <div class="booking_link"><a href="booking.html">Deluxe Room</a></div>
-                                </div>
-    
-                                <!-- Slide -->
-                                <div class="booking_item">
-                                    <div class="background_image" style="background-image:url(images/booking_3.jpg)"></div>
-                                    <div class="booking_overlay trans_200"></div>
-                                    <div class="booking_price">$120/Night</div>
-                                    <div class="booking_link"><a href="booking.html">Single Room</a></div>
-                                </div>
-    
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    
 @endsection

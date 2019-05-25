@@ -15,9 +15,29 @@ a,h1,h2,h3,h4,h5,h6,p,input,button{
 b{
   font-family: 'nexa-bold';
 }
+
+
+
 /* Estilos */
 
-
+.booking_link{
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background: red;
+}
+.naranja{
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  background:orange;
+}
+.mt-200{
+  padding-top: 400px;
+}
+.menu_nav ul li a{
+  font-size: 20px;
+}
 .home_slider .background_image{
   opacity: 1;
 }
@@ -84,7 +104,6 @@ a:hover{
   }
   .formulario2{
     width: 510px;
-    background-color: rgb(0,0,0,0.5);
     position: absolute;
     z-index: 999;
     margin-top: 55px;
@@ -110,9 +129,15 @@ a:hover{
 .medium-logo{
   height: 50px;
 }
+.only-movil{
+  display: none;
+}
 
 /* Estilos para movil */
 @media (max-width: 600px) {
+  .only-movil{
+    display:block;
+  }
   .only-desk {
     display: none;
   }
@@ -123,6 +148,7 @@ a:hover{
   }
   .formulario2{
     margin-top: 20px;
+    width: 100%;
   }
   .mtn{
     margin-top:50px; 
@@ -132,5 +158,26 @@ a:hover{
     width: 100%;
     margin: 0px;
   }
+  .pb-150{
+    padding-top: 210px !important ;
+  }
 }
 /* Fin estilos movil */
+/* ESTILOS MAP */
+.hover_group:hover {
+  opacity: 1;
+}
+#projectsvg {
+  position: relative;
+  width: 100%;
+  padding-bottom: 77%;
+  vertical-align: middle;
+  margin: 0;
+  overflow: hidden;
+}
+#projectsvg svg {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
