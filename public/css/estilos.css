@@ -12,14 +12,36 @@
 a,h1,h2,h3,h4,h5,h6,p,input,button{
   font-family: "nexa-light";
 }
-b{
-  font-family: 'nexa-bold';
-}
-
-
 
 /* Estilos */
 
+.border{
+  width: 85%;
+  margin: auto;
+  border: 3px solid white !important;
+  padding: 20px;
+}
+b{
+  font-family: 'nexa-bold';
+}
+.btn-yellow{
+  background-color: #FF8E00 !important;
+}
+.bg-yellow-dark{
+  background-color: #FF8E00 !important;
+}
+.wd-100{
+  width: 100% !important;
+}
+.btn-flotante{
+  position: fixed;
+  top: 350px;
+  right: 0px !important;
+  z-index: 900;
+}
+.modal-content{
+  background-color: rgb(0,0,0,0.5);
+}
 .booking_link{
     bottom: 0px;
     left: 0px;
@@ -55,7 +77,6 @@ label{
   margin-bottom: 10px;
   border: none;
 }
-
 .form{
   width: 90%;
   margin: auto;
@@ -80,7 +101,7 @@ a:hover{
   z-index: 50;
 }
 .txt-white{
-    color:white;
+    color:white !important;
 }
 .bg-red{
 	background-color: #be000a;
@@ -98,7 +119,7 @@ a:hover{
     background-color: rgb(0,0,0,0.5);
     position: absolute;
     z-index: 2;
-    margin-top: 160px;
+    margin-top: 200px;
     margin-left: 50px;
     letter-spacing: 2px;
   }
@@ -106,14 +127,13 @@ a:hover{
     width: 510px;
     position: absolute;
     z-index: 999;
-    margin-top: 55px;
+    margin-top: 300px;
     letter-spacing: 2px;
 }  
 .formulario p{
   line-height:15px;
   color: #edeef0;
 }
-
 .txt-white{
   color:white;
 }
@@ -147,7 +167,7 @@ a:hover{
     margin-top: 80px;
   }
   .formulario2{
-    margin-top: 20px;
+    margin-top: 350px;
     width: 100%;
   }
   .mtn{
@@ -158,11 +178,14 @@ a:hover{
     width: 100%;
     margin: 0px;
   }
-  .pb-150{
-    padding-top: 210px !important ;
-  }
 }
 /* Fin estilos movil */
+/*Estilos Desk*/
+@media ( min-width: 1900px){
+  .formulario2{
+    margin-top: 500px;
+  }
+}
 /* ESTILOS MAP */
 .hover_group:hover {
   opacity: 1;

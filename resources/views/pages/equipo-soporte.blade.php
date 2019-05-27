@@ -3,7 +3,7 @@
     
 @section('content')
 <div class="formulario ">
-        <div class="formulario2 mt-200">
+        <div class="formulario2 ">
                 <img src=" {{asset('images/precio_img.png')}} " alt="">
         </div>
     </div>

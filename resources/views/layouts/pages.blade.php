@@ -137,6 +137,77 @@
 	</div>	
 	<!-- Footer -->
 
+	{{-- MODAL --}}
+	<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-flotante" style="width:50px" data-toggle="modal" data-target="#exampleModal">
+		<i class="fas fa-envelope"></i>
+	  </button>
+	  
+	  <!-- Modal -->
+	  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-xl" role="document">
+		  <div class="modal-content">
+			<div class="modal-header">
+			  <button type="button" class="close txt-white" data-dismiss="modal" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			  </button>
+			</div>
+			<div class="modal-body">
+			  {{-- MODAL CONTENT --}}
+			  <div class="row">
+				  <div class="col-12 col-lg-6">
+					<p class="txt-white pd-2 text-justify">
+						Es la <b> OPORTUNIDAD DE INVERTIR</b> 
+						en un proyecto innovador, con multiples beneficios y al 
+						<b> MEJOR PRECIO POR m2</b> de la zona. Una compra inteligente con 
+						<b>amplio plazo</b> 
+						para pago de cuota inicial. Escríbenos y te contactaremos lo más pronto posible.
+					</p>
+						<form action="/mail" method="POST" class="form">
+							@csrf
+							<div class="form-group">
+							  <label for="">NOMBRE</label>
+							  <input type="text" class="form-control" name="nombre" required>
+							</div>
+							<div class="form-group">
+							  <label for="">CORREO</label>
+							  <input type="email" class="form-control" name="email" required>
+							</div>
+			
+							<div class="form-group">
+							  <label for="">INTERESES</label>
+							  <select class="form-control" name="intereses" >
+								<option name="opt1">LOCALES COMERCIALES</option>
+								<option name="opt2">APARTAESTUDIOS - LOFTS</option>
+								<option name="opt3">APARTAMENTO 2 ALCOBAS</option>
+								<option name="opt4">APARTAMENTO 3 ALCOBAS</option>
+							  </select>
+							</div>
+			
+							<div class="form-group">
+							  <label for="">Nº  CELULAR</label>
+							  <input type="text" class="form-control" name="celular" required>
+							</div>
+							<div class="form-group">
+							  <label for="">MENSAJE</label>
+							  <textarea class="form-control" name="mensaje" rows="2"></textarea>
+							</div>
+							<button type="submit" class="btn btn-primary boton-right">Enviar <i class="fas fa-angle-right"></i></button>
+			
+						</form>
+				  </div>
+				  <div class="col-12 col-lg-6">
+				  <img src=" {{ asset('images/mapa_mapa.png') }}">
+				  </div>
+			  </div>
+			  
+			  {{-- FIN MODAL CONTENT --}}
+			</div>
+		  </div>
+		</div>
+	  </div>
+	{{-- FIN MODAL --}}
+
 	<footer class="footer d-flex justify-content-center">
 			<a href="http://www.casacreativa.co/" target="blank">
 				<img height="30px" src="{{asset('images/EXPORTS_casa_creativa.png')}} ">

@@ -3,7 +3,7 @@
     
 @section('content')
 <div class="formulario ">
-        <div class="formulario2 mt-200">
+        <div class="formulario2">
                 <img src=" {{asset('images/precio_img.png')}} " alt="">
         </div>
     </div>
@@ -68,4 +68,25 @@
                 </div>
             </div>
         </div>
+
+	{{-- TEST --}}
+
+	<figure id="projectsvg">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" preserveAspectRatio="xMinYMin meet" >
+          <!-- set your background image -->
+          <image width="1920" height="1080" xlink:href="http://placehold.it/1920x1080" />
+          <g class="hover_group" opacity="0">
+            <a xlink:href="https://example.com/link1.html">
+              <text x="20" y="190" font-size="20">First zone</text>
+              <rect x="10" y="10" opacity="0.2" fill="#FFFFFF" width="1900" height="200"></rect>
+            </a>
+          </g>
+          <g class="hover_group" opacity="0">
+            <a xlink:href="https://example.com/link2.html">
+              <text x="1230.7" y="952" font-size="20">Second zone</text>
+              <rect x="1081.7" y="507" opacity="0.2" fill="#FFFFFF" width="390.2" height="450"></rect>
+            </a>
+          </g>
+            </svg>
+          </figure>
 @endsection

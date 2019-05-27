@@ -2,11 +2,12 @@
 @section('title','Home')
     
 @section('content')
-<div class="formulario ">
-			<div class="formulario2 mt-200">
+		<div class="formulario ">
+			<div class="formulario2">
 					<img src=" {{asset('images/precio_img.png')}} " alt="">
 			</div>
 		</div>
+{{-- SLIDER --}}
 	<div class="home">
 		<div class="home_slider_container">
 			<div class="owl-carousel owl-theme home_slider">				
@@ -62,30 +63,76 @@
 			
 		</div>
 	</div> 
-	{{-- NEXT SECTION --}}
-<div class="bg-gray pd-2">
-	<div class="container">
-		<div class="row">
-			<div class="col">
-				<h3 class="txt-white">UNA <b>VISION CONTEMPORANEA</b></h3>
-				<h3 class="txt-white">QUE PROMETE CONVERTIRSE</h3>
-				<h3 class="txt-white">EN <b>HITO URBANO</b> DEL SECTOR</h3>
-			</div>
-			<div class="col">
-				<p class="txt-white text-justify">
-						Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-						nonummy nibh euismod tincidunt ut laoreet dolore magna Lorem
-						ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-				</p>
-				<a href="#" target="blank">
-					<button class="btn btn-primary boton-right "> DESCRIPCIÓN DEL PROYECTO <i class="fas fa-angle-right"></i></button>
-				</a>
+{{-- FIN SLIDER --}}
+{{-- NEXT SECTION --}}
+	<div class="bg-gray pd-2">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<h3 class="txt-white">UNA <b>VISION CONTEMPORANEA</b></h3>
+					<h3 class="txt-white">QUE PROMETE CONVERTIRSE</h3>
+					<h3 class="txt-white">EN <b>HITO URBANO</b> DEL SECTOR</h3>
+				</div>
+				<div class="col">
+					<p class="txt-white text-justify">
+							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+							nonummy nibh euismod tincidunt ut laoreet dolore magna Lorem
+							ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+					</p>
+					<a href="#" target="blank">
+						<button class="btn btn-primary boton-right "> DESCRIPCIÓN DEL PROYECTO <i class="fas fa-angle-right"></i></button>
+					</a>
+				</div>
 			</div>
 		</div>
 	</div>
+{{-- Galeria --}}
+	<div class="container mt-4">
+		<div class="row">
+			<div class="col-12 col-lg-4 mt-4">
+				<img src=" {{asset('images/seccion_01.png')}} " alt="">
+				<button class="btn btn-primary boton-right wd-100">ZONAS COMUNES Y DOTACIONES</button>
+			</div>
+			<div class="col-12 col-lg-4 mt-4">
+					<img src=" {{asset('images/seccion_02.png')}} " alt="">
+					<button class="btn btn-primary boton-right wd-100">VER: PLANOS + AREAS + PRECIOS</button>
+			</div>
+			<div class="col-12 col-lg-4 mt-4">
+					<img src=" {{asset('images/seccion_03.png')}} " alt="">
+					<button class="btn btn-primary boton-right wd-100">VER: CATALOGO DE ACABADOS</button>
+			</div>
+		</div>
+	</div>
+{{-- Fin Galeria --}}
+<div class="row">
+	<div class="col-12 col-lg-8">
+		<img src=" {{asset('images/mapa_ruta.png')}} " class="wd-100">
+	</div>
+	<div class="col-12 col-lg-4 bg-yellow-dark">
+		<h3 class="txt-white text-center mt-4 mb-4">UN EXCELENTE PLUS <br>ES <b>VIVIR CERCA DE TODO</b></h3>
+		<div class="txt-white border">
+			<h4 class="txt-white"><i class="fas fa-stop"></i> A solo 5 min. de la Zona Universitaria</h4>
+			<br>
+			<h4 class="txt-white"><i class="fas fa-stop"></i> Múltiples vías de acceso</h4>
+			<br>
+			<h4 class="txt-white"><i class="fas fa-stop"></i> Cercanía con el centro Histórico y Cultural de la Ciudad</h4>
+			<br>
+			<h4 class="txt-white"><i class="fas fa-stop"></i> Oficinas de servicios y entidades Publicas y Privadas</h4>
+			<br>
+			<h4 class="txt-white"><i class="fas fa-stop"></i> Cerca de Bancos y Nuevos Centros Comerciales</h4>
+			<br>
+			<h4 class="txt-white"><i class="fas fa-stop"></i> Colegios Públicos y Privados en la zona</h4>
+		</div >
+		<a href="#" target="blank">
+			<button class="btn btn-primary mt-4">CONOCE MAS DE SUS BENEFICIOS<i class="fas fa-angle-right"></i></button>
+		</a>
+	</div>
 </div>
-{{-- NEXT SECTION --}}
-<div class="booking">
+
+
+
+
+{{-- <div class="booking">
 		<div class="container">
 			<div class="row">
 				<div class="col">
@@ -94,21 +141,21 @@
 						<div class="owl-carousel owl-theme booking_slider">		
 							<!-- Slide -->
 							<div class="booking_item">
-									<div class="background_image" style="background-image:url(images/booking_1.jpg)"></div>
+									<div class="background_image" style="background-image:url(images/seccion_01.png)"></div>
 								<div class="booking_overlay trans_200"></div>
 								<div class="booking_link"><a href="#">ZONAS COMUNES Y DOTACIONES</a></div>
 							</div>
 
 							<!-- Slide -->
 							<div class="booking_item">
-								<div class="background_image" style="background-image:url(images/booking_2.jpg)"></div>
+								<div class="background_image" style="background-image:url(images/seccion_02.png)"></div>
 								<div class="booking_overlay trans_200"></div>
 								<div class="booking_link"><a href="#">VER: PLANOS + AREAS + PRECIOS</a></div>
 							</div>
 
 							<!-- Slide -->
 							<div class="booking_item">
-								<div class="background_image" style="background-image:url(images/booking_3.jpg)"></div>
+								<div class="background_image" style="background-image:url(images/seccion_03.png)"></div>
 								<div class="booking_overlay trans_200"></div>
 								<div class="booking_link"><a href="#">VER: CATALOGO DE ACABADOS</a></div>
 							</div>
@@ -118,26 +165,5 @@
 				</div>
 			</div>
 		</div>
-	</div>
-
-	{{-- TEST --}}
-
-	<figure id="projectsvg">
-		<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" preserveAspectRatio="xMinYMin meet" >
-	  <!-- set your background image -->
-	  <image width="1920" height="1080" xlink:href="http://placehold.it/1920x1080" />
-	  <g class="hover_group" opacity="0">
-		<a xlink:href="https://example.com/link1.html">
-		  <text x="20" y="190" font-size="20">First zone</text>
-		  <rect x="10" y="10" opacity="0.2" fill="#FFFFFF" width="1900" height="200"></rect>
-		</a>
-	  </g>
-	  <g class="hover_group" opacity="0">
-		<a xlink:href="https://example.com/link2.html">
-		  <text x="1230.7" y="952" font-size="20">Second zone</text>
-		  <rect x="1081.7" y="507" opacity="0.2" fill="#FFFFFF" width="390.2" height="450"></rect>
-		</a>
-	  </g>
-		</svg>
-	  </figure>
+	</div> --}}
 @endsection

@@ -3,7 +3,7 @@
     
 @section('content')
 <div class="formulario ">
-        <div class="formulario2 mt-200">
+        <div class="formulario2">
                 <img src=" {{asset('images/precio_img.png')}} " alt="">
         </div>
     </div>
@@ -76,41 +76,28 @@
                 </div>
             </div>
         </div>
-
-        {{-- NEXT-SECTION --}}
-        <div class="booking">
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <!-- Booking Slider -->
-                            <div class="booking_slider_container">
-                                <div class="owl-carousel owl-theme booking_slider">		
-                                    <!-- Slide -->
-                                    <div class="booking_item">
-                                            <div class="background_image" style="background-image:url(images/booking_1.jpg)"></div>
-                                        <div class="booking_overlay trans_200"></div>
-                                        <div class="booking_link naranja"><a href="#">VIAS + INFRAESTRUCTURA + TRANSPORTE</a></div>
-                                    </div>
-        
-                                    <!-- Slide -->
-                                    <div class="booking_item">
-                                        <div class="background_image" style="background-image:url(images/booking_2.jpg)"></div>
-                                        <div class="booking_overlay trans_200"></div>
-                                        <div class="booking_link naranja"><a href="#">LUGARES DE INTERES + OCIO + ENTRETENIMIENTO</a></div>
-                                    </div>
-        
-                                    <!-- Slide -->
-                                    <div class="booking_item">
-                                        <div class="background_image" style="background-image:url(images/booking_3.jpg)"></div>
-                                        <div class="booking_overlay trans_200"></div>
-                                        <div class="booking_link naranja"><a href="#">COLEGIOS + UNIVERSIDADES
-                                                + SERV. INSTITUCIONALES </a></div>
-                                    </div>
-        
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{-- Galeria --}}
+    <div class="container mt-4">
+		<div class="row">
+			<div class="col-12 col-lg-4 mt-4">
+				<img src=" {{asset('images/seccion_04.png')}} " alt="">
+				<button class="btn btn-primary btn-yellow boton-right wd-100">
+                    VIAS + INFRAESTRUCTURA + TRANSPORTE
+                </button>
+			</div>
+			<div class="col-12 col-lg-4 mt-4">
+					<img src=" {{asset('images/seccion_05.png')}} " alt="">
+					<button class="btn btn-primary btn-yellow boton-right wd-100">
+                        LUGARES DE INTERES + OCIO + ENTRETENIMIENTO
+                    </button>
+			</div>
+			<div class="col-12 col-lg-4 mt-4">
+					<img src=" {{asset('images/seccion_06.png')}} " alt="">
+					<button class="btn btn-primary btn-yellow boton-right wd-100">
+                            COLEGIOS + UNIVERSIDADES <br>  + SERV. INSTITUCIONALES
+                    </button>
+			</div>
+		</div>
+	</div>
+{{-- Fin Galeria --}}
 @endsection
