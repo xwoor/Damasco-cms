@@ -12,7 +12,18 @@
   			</button>
 			</div>
 		@endif
-					<img src=" {{asset('images/precio_img.png')}} " alt="">
+					<img src=" {{asset('images/precio_img.png')}} " class="wow fadeInUp">
+					<div class="formulario-boton">
+						<button  data-toggle="modal" data-target="#exampleModal" class="wow fadeInLeft"
+						class="wow fadeInLeft" data-wow-delay="0.5s">
+							<img  width="100%" src=" {{asset('images/boton_contactenos.png')}} " >
+						</button>
+						<a href="images/portafolio/portafolio.pdf" target="blank">
+							<button class="mt-2 wow fadeInLeft" data-wow-delay="0.8s" >
+								<img  width="100%" src=" {{asset('images/boton_portafolio.png')}} " >
+							</button>
+						</a>
+					</div>
 			</div>
 		</div>
 	<div class="home">
@@ -50,6 +61,9 @@
 				<div class="slide">
 					<div class="background_image" style="background-image:url(images/slider/38-PLUS-B8.jpg)"></div>
 				</div>
+				<div class="slide">
+					<div class="background_image" style="background-image:url(images/slider/BANNER-ACABADOS.jpg)"></div>
+				</div>
 			</div>
 			
 			<!-- Home Slider Dots -->
@@ -57,6 +71,12 @@
 				<div class="home_slider_dots">
 					<ul id="home_slider_custom_dots" class="home_slider_custom_dots d-flex flex-row align-items-start justify-content-start">
 						<li class="home_slider_custom_dot active"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
+						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
 						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
 						<li class="home_slider_custom_dot"><i class="fas fa-circle"></i></li>
 					</ul>
@@ -69,10 +89,15 @@
 
 	<div class=" bg-gray pd-2  txt-white ">
 		<div class="container">
-			<div class="row">
+			<div class="row wow fadeInUp" data-wow-delay="0.5s" >
 				<div class="col-md-3 col-xs-12">
 					<h4 class="txt-white text-center">
 						(+57) 320 918 37 59
+					</h4>
+				</div>
+				<div class="col-md-3 col-xs-12">
+					<h4 class="txt-white text-center">
+						SALA DE VENTAS: Carrera 38 entreCalles 12 y 12a Puente Aranda
 					</h4>
 				</div>
 				<div class="col-md-3 col-xs-12">
@@ -89,14 +114,9 @@
 
 		</div>
 	</div>
-	<div class="">
-		<a href="images/portafolio/portafolio.pdf" target="blank">
-			<button class="btn btn-primary boton-right mtn"> DESCARGA EL PORTAFOLIO <i class="fas fa-angle-right"></i></button>
-		</a>
-	</div>
 	<div class="bg-gray-light">
 		<div class="container">
-			<div class="row ">
+			<div class="row  wow fadeInDown" data-wow-delay="0.8s">
 				<div class="col-4 col-lg-2">
 					<img src="{{ asset('images/EXPORTS_lobby.png')}}" alt="">
 				</div>
@@ -119,9 +139,9 @@
 		</div>
 	</div>
 	<br>
-	<h3 class="text-center tex-gray"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
+	<h3 class="text-center tex-gray wow fadeInUp" data-wow-delay="0.8s"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
 	<div class="container">
-	<div class="row mt-4">
+	<div class="row mt-4 wow fadeInLeft" data-wow-delay="1s">
 		<div class="col-3 col-lg-2 mt-4">
 			<img src=" {{asset('images/clientes_img__07.png')}} ">
 		</div>
@@ -145,9 +165,6 @@
 	</div>	
 {{-- Modal --}}
 <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-flotante" style="width:50px" data-toggle="modal" data-target="#exampleModal">
-	<i class="fas fa-envelope"></i>
-  </button>
   
   <!-- Modal -->
   <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

@@ -4,7 +4,7 @@
             <title>Damasco - @yield('title')</title>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta name="description" content="The River template project">
+            <meta name="description" content="Proyecto Damascogit ">
             <meta name="viewport" content="width=device-width, initial-scale=1">
            	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		   	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
@@ -15,7 +15,11 @@
             <link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css">
             <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
             <link rel="stylesheet" type="text/css" href="styles/responsive.css">
-            <link rel="stylesheet" type="text/css" href="css/estilos.css">
+						<link rel="stylesheet" type="text/css" href="css/estilos.css">
+						<script src="js/wow.js"></script>
+              <script>
+              new WOW().init();
+			  </script>
         </head>
 <body>
 
@@ -26,7 +30,7 @@
 	<header class="header">
 		<div class="header_content d-flex flex-row align-items-center justify-content-start">
 				<div class="logo only-movil"><a href="/"><img src="{{asset('images/EXPORTS_logo_38.png') }}" alt=""></a></div>
-			<div class=""><a href="/test" >            <div class="only-desk">
+			<div class=" wow fadeInLeft"><a href="/test" >            <div class="only-desk">
 					<a href=""><img class="small-logo" src="{{asset('images/EXPORTS_fb.png') }}"></a>
 					<a href=""><img class="small-logo" src="{{asset('images/EXPORTS_ig.png') }}"></a>
 					<a href=""><img class="medium-logo" src="{{asset('images/EXPORTS_logo_38.png') }}"></a>
@@ -34,7 +38,7 @@
 				</div></a></div>
 			<div class="ml-auto d-flex flex-row align-items-center justify-content-start">
 				<nav class="main_nav">
-					<ul class="d-flex flex-row align-items-start justify-content-start">
+					<ul class="d-flex flex-row align-items-start justify-content-start wow fadeInDown">
 						<li class="{{ Request::is('test') ? 'active' : ''}} mt4">
 							<a href="/test">Home</a>
 						</li>
@@ -112,25 +116,26 @@
 	</div>
 
 	@yield('content')
-	<h3 class="text-center tex-gray mt-4"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
+	
+	<h3 class="text-center tex-gray mt-4 wow fadeInUp"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
 	<div class="container">
-	<div class="row mt-4">
-		<div class="col-4 col-lg-2 mt-4">
+	<div class="row mt-4 ">
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
+			<img src=" {{asset('images/clientes_img__07.png')}} ">
+		</div>
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
 			<img src=" {{asset('images/clientes_img_01.png')}} ">
 		</div>
-		<div class="col-4 col-lg-2 mt-4">
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.5s">
 			<img src=" {{asset('images/clientes_img_02.png')}} ">
 		</div>
-		<div class="col-4 col-lg-2 mt-4">
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.8s">
 			<img src=" {{asset('images/clientes_img_03.png')}} ">
 		</div>
-		<div class="col-4 col-lg-2 mt-4">
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.1s">
 			<img src=" {{asset('images/clientes_img_04.png')}} ">
 		</div>
-		<div class="col-4 col-lg-2 mt-4">
-			<img src=" {{asset('images/clientes_img_05.png')}} ">
-		</div>
-		<div class="col-4 col-lg-2 mt-4">
+		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.5s">
 			<img src=" {{asset('images/clientes_img_06.png')}} ">
 		</div>
 	</div>
@@ -139,9 +144,10 @@
 
 	{{-- MODAL --}}
 	<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-flotante" style="width:50px" data-toggle="modal" data-target="#exampleModal">
-		<i class="fas fa-envelope"></i>
-	  </button>
+<button type="button" class="btn btn-primary btn-flotante btn-movil wow fadeInRight" data-wow-delay="1s" style="padding:10px" data-toggle="modal"  		
+	data-target="#exampleModal">
+		<i style="font-size: 40px;" class="fas fa-envelope"></i>
+</button>
 	  
 	  <!-- Modal -->
 	  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -208,7 +214,7 @@
 	  </div>
 	{{-- FIN MODAL --}}
 
-	<footer class="footer d-flex justify-content-center">
+	<footer class="footer d-flex justify-content-center wow fadeInUp" data-wow-delay="1.8s">
 			<a href="http://www.casacreativa.co/" target="blank">
 				<img height="30px" src="{{asset('images/EXPORTS_casa_creativa.png')}} ">
 			</a>

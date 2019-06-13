@@ -4,7 +4,7 @@
             <title>Damasco - @yield('title')</title>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta name="description" content="The River template project">
+            <meta name="description" content="Proyecto Damasco">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -16,6 +16,10 @@
             <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
             <link rel="stylesheet" type="text/css" href="styles/responsive.css">
             <link rel="stylesheet" type="text/css" href="css/estilos.css">
+            <script src="js/wow.js"></script>
+              <script>
+              new WOW().init();
+              </script>
         </head>
 <body>
 
@@ -24,7 +28,7 @@
 	<!-- Header -->
 
 	<header class="header">
-		<div class="header_content d-flex flex-row align-items-center justify-content-between">
+		<div class="header_content d-flex flex-row align-items-center justify-content-between wow fadeInDown">
 			<div>
                 <a class="txt-yellow" href="/" >PÁGINA EN CONSTRUCCIÓN +</a>
             </div>
@@ -48,7 +52,7 @@
     @yield('content')
 	<!-- Footer -->
 
-	<footer class="footer d-flex justify-content-center">
+	<footer class="footer d-flex justify-content-center wow fadeInUp">
         <a href="http://www.casacreativa.co/" target="blank">
 		    <img height="30px" src="{{asset('images/EXPORTS_casa_creativa.png')}} ">
         </a>
