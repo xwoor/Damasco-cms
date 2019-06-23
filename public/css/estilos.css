@@ -15,17 +15,35 @@ a,h1,h2,h3,h4,h5,h6,p,input,button{
 /* Fin Tipografias */
 
 /* Estilos */
+.dropdown-toggle {
+  color: white;
+  background-color: rgba(0,0,0,0);
+  border: none;
+  padding: 5px;
+}
+.dropdown-menu.show {
+  background-color: rgba(0,0,0,0.5);
+}
+.dropdown-item:focus, .dropdown-item:hover {
+  background-color: red;
+}
 .carousel-control-next-icon, .carousel-control-prev-icon{
   background-color: rgb(0,0,0,0.5);
   padding: 5px;
   border-radius: 50%;
+}
+.modal-header {
+  margin-top: -20px !important;
+}
+.h100-vh{
+  height: 100vh;
 }
 .b-rd{
   border-radius: 50px;
 }
 .btn-como{
   position:absolute;
-  bottom:20px;
+  bottom:-20px;
   margin: auto;
   width: 400px;
 }
@@ -33,6 +51,7 @@ a,h1,h2,h3,h4,h5,h6,p,input,button{
   background-image: url('../images/bg_05.png');
   background-position: center center;
   background-size: cover;
+  height: 100vh;
 }
 .formulario-boton{
   margin-top: 400px;
@@ -72,6 +91,7 @@ b{
 }
 .modal-content2{
   background-color: white !important;
+  margin-left: 0.5%;
 }
 .modal-body2 {
   height: auto;
@@ -95,6 +115,12 @@ b{
 }
 .mt-200{
   padding-top: 400px;
+}
+.mt-250{
+  margin-top: 250px !important;
+}
+.mt-110{
+  margin-top: 108px !important;
 }
 .menu_nav ul li a{
   font-size: 20px;
@@ -147,6 +173,9 @@ a:hover{
 .txt-white{
     color:white !important;
 }
+.txt-red{
+    color:red !important;
+}
 .bg-red{
 	background-color: #be000a;
 }
@@ -190,6 +219,10 @@ a:hover{
   font-weight: bold;
 
 }
+.mapita{
+  width: 100%;
+  height: 150%;
+}
 .centrado{
   margin-left: auto !important;
 }
@@ -204,7 +237,26 @@ a:hover{
 }
 
 /* Estilos para movil */
+
 @media (max-width: 600px) {
+  #projectsvg {
+    margin-top: 100px !important;
+  }
+  .modal-header {
+    margin-top: 0px !important;
+  }
+  .mt-110{
+    margin-top: 90px !important;
+  }
+  .btn-como{
+    width: 90% !important;
+  }
+  .movil-mt-150{
+    height: 120px;
+  }
+  .mt-250{
+    margin-top: 20px !important;
+  }
   .only-movil{
     display:block;
   }
@@ -291,6 +343,7 @@ a:hover{
   vertical-align: middle;
   margin: 0;
   overflow: hidden;
+
 }
 #projectsvg svg {
   display: inline-block;

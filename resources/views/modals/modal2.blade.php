@@ -13,64 +13,64 @@
                 <div id="hbt0-slide" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">       
                       <div class="carousel-item active">
-                        <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/206.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/205.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/203.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/210.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/211.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/207.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/316.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/208.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/218.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/209.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/214.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/204.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/213.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/215.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/217.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/201.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/220.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/202.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/201.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                       <div class="carousel-item">
-                        <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                        <img src="images/hbt/219.jpg" class=" d-block w-100" style="margin: auto; width: 80% !important;">
                       </div>
                     </div>
                     <a class="carousel-control-prev" href="#hbt0-slide" role="button" data-slide="prev">
@@ -99,66 +99,66 @@
         <div class="modal-body modal-body2">
                 
             <div id="hbt1-slide" class="carousel slide" data-ride="carousel">
-                <div class="carousel-inner">       
-                  <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-inner ">       
+                  <div class="carousel-item  ">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt1-slide" role="button" data-slide="prev">
@@ -189,64 +189,64 @@
             <div id="hbt2-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt2-slide" role="button" data-slide="prev">
@@ -277,64 +277,64 @@
             <div id="hbt3-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt3-slide" role="button" data-slide="prev">
@@ -365,64 +365,64 @@
             <div id="hbt4-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt4-slide" role="button" data-slide="prev">
@@ -453,64 +453,64 @@
             <div id="hbt5-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active" >
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt5-slide" role="button" data-slide="prev">
@@ -541,64 +541,64 @@
             <div id="hbt6-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt6-slide" role="button" data-slide="prev">
@@ -629,64 +629,64 @@
             <div id="hbt7-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt7-slide" role="button" data-slide="prev">
@@ -717,64 +717,64 @@
             <div id="hbt8-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt8-slide" role="button" data-slide="prev">
@@ -805,64 +805,64 @@
             <div id="hbt9-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt9-slide" role="button" data-slide="prev">
@@ -893,64 +893,64 @@
             <div id="hbt10-slide" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">       
                   <div class="carousel-item ">
-                    <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item ">
-                    <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item active">
                     <img src="images/hbt/214.jpg" class="d-block w-100" alt="..">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                   <div class="carousel-item">
-                    <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                    <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                   </div>
                 </div>
                 <a class="carousel-control-prev" href="#hbt10-slide" role="button" data-slide="prev">
@@ -981,64 +981,64 @@
           <div id="hbt11-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt11-slide" role="button" data-slide="prev">
@@ -1069,64 +1069,64 @@
           <div id="hbt12-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt12-slide" role="button" data-slide="prev">
@@ -1157,64 +1157,64 @@
           <div id="hbt13-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt13-slide" role="button" data-slide="prev">
@@ -1245,64 +1245,64 @@
           <div id="hbt14-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt14-slide" role="button" data-slide="prev">
@@ -1333,64 +1333,64 @@
           <div id="hbt15-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt15-slide" role="button" data-slide="prev">
@@ -1421,64 +1421,64 @@
           <div id="hbt16-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt16-slide" role="button" data-slide="prev">
@@ -1509,64 +1509,64 @@
           <div id="hbt17-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt17-slide" role="button" data-slide="prev">
@@ -1597,64 +1597,64 @@
           <div id="hbt18-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt18-slide" role="button" data-slide="prev">
@@ -1685,64 +1685,64 @@
           <div id="hbt19-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active" >
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt19-slide" role="button" data-slide="prev">
@@ -1773,64 +1773,64 @@
           <div id="hbt20-slide" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner">       
                 <div class="carousel-item ">
-                  <img src="images/hbt/206.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/206.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/205.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/205.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/203.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/203.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/210.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/210.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item ">
-                  <img src="images/hbt/211.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/211.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/207.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/207.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/316.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/316.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/208.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/208.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/218.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/218.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/209.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/209.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/214.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/214.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/204.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/204.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/213.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/213.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/215.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/215.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/217.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/217.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/220.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/220.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/202.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/202.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item">
-                  <img src="images/hbt/201.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/201.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
                 <div class="carousel-item active">
-                  <img src="images/hbt/219.jpg" class="d-block w-100" alt="...">
+                  <img src="images/hbt/219.jpg" class="d-block w-100" style="margin: auto; width: 80% !important;">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#hbt20-slide" role="button" data-slide="prev">

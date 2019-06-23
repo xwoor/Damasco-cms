@@ -64,6 +64,7 @@
 					</ul>
 				</div>
 			</div>
+			<!-- Home Slider Dots -->
 			
 		</div>
 	</div> 
@@ -100,7 +101,7 @@
 			</div>
 			<div class="col-12 col-lg-4 mt-4">
 				<img class="galeria-hover wow fadeInLeft" data-wow-delay="0.8s" src=" {{asset('images/seccion_02.png')}} " alt="">
-				<a href="/test-espacios-valores">
+				<a href="/test-espacios-valores#apartamentos">
 					<button class="btn btn-primary boton-right wd-100 wow fadeInUp" data-wow-delay="1s">VER: PLANOS + AREAS + PRECIOS</button>
 				</a>
 			</div>

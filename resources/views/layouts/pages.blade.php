@@ -40,33 +40,56 @@
 				<nav class="main_nav">
 					<ul class="d-flex flex-row align-items-start justify-content-start wow fadeInDown">
 						<li class="{{ Request::is('test') ? 'active' : ''}} mt4">
-							<a href="/test">Home</a>
+							<a href="/test">HOME</a>
 						</li>
+
+
+
 						<li class="{{ Request::is('test-ubicacion-descripcion') ? 'active' : ''}}">
-							<a href="/test-ubicacion-descripcion">
-								UBICACIÓN + <br>DESCRIPCIÓN
-							</a>
+							
+							<div class="btn-group">
+									<a href="/test-ubicacion-descripcion">
+										UBICACIÓN + <br>DESCRIPCIÓN
+									</a>
+									<button type="button" class=" dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<span class="sr-only">Toggle Dropdown</span>
+									</button>
+									<div class="dropdown-menu">
+									<a class="dropdown-item txt-white text-uppercase" href="#">Mapa + Localización</a>
+									<a class="dropdown-item txt-white text-uppercase" href="#">Zonas Comunes</a>
+									<a class="dropdown-item txt-white text-uppercase" href="#">Beneficios del sector</a>
+									</div>
+								</div>
 						</li>
-						<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}}">
+						<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}} nav-item dropdown">
 							<a href="/test-espacios-valores">
 								ESPACIOS<br>+ VALORES
 							</a>
+							<button type="button" class=" dropdown-toggle " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<span class="sr-only">Toggle Dropdown</span>
+									</button>
+									<div class="dropdown-menu">
+									<a class="dropdown-item txt-white text-uppercase" href="/apartamentos">Apartamentos</a>
+									<a class="dropdown-item txt-white text-uppercase" data-toggle="modal" data-target="#apt4">Locales Comerciales</a>
+									<a class="dropdown-item txt-white text-uppercase" data-toggle="modal"  data-target="#apt5">Parqueaderos</a>
+									<a class="dropdown-item txt-white text-uppercase" data-toggle="modal"  data-target="#apt1">Terraza</a>
+									</div>
 						</li >
-						<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
-							<a href="/test-equipo-soporte">
-								EQUIPO + <br>SOPORTE
-							</a>
-						</li>
 						<li  class="{{ Request::is('test-catalogo-acabados') ? 'active' : ''}}">
 							<a href="/test-catalogo-acabados">
 								CATALOGO DE<br>+ ACABADOS
 							</a>
 						</li>
 						<li class="{{ Request::is('test-contacto') ? 'active' : ''}} mt4">
-							<a href="/test-contacto">
+							<a href="" data-toggle="modal" data-target="#exampleModal">
 								CONTACTO
 							</a>
 						</li>
+						<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
+							<a href="/test-equipo-soporte">
+								DESCARGA <br> DE ARCHIVOS
+							</a>
+						</li>				
 					</ul>
 				</nav>
 				<!-- Hamburger Menu -->
@@ -83,31 +106,37 @@
 			<nav class="menu_nav text-right">
 				<ul>
 					<li class="{{ Request::is('/test') ? 'active' : ''}} ">
-						<a href="/test" class="mt-4">Home</a> <hr>
+						<a href="/test" class="mt-4">HOME</a> <hr>
 					</li>
 					<li class="{{ Request::is('test-ubicacion-descripcion') ? 'active' : ''}}">
 						<a href="/test-ubicacion-descripcion">
 							UBICACIÓN + DESCRIPCIÓN
 						</a> <hr>
 					</li>
-					<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}}">
-						<a href="/test-espacios-valores">
-							ESPACIOS + VALORES
-						</a> <hr>
-					</li >
-					<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
-						<a href="/test-equipo-soporte">
-							EQUIPO + SOPORTE
-						</a> <hr>
-					</li>
+					<li class="{{ Request::is('test-espacios-valores') ? 'active' : ''}} nav-item dropdown">
+							<a href="/test-espacios-valores" id="navbarDropdown" role="button" data-toggle="dropdown"  aria-expanded="true">
+								ESPACIOS<br>+ VALORES
+							</a> <hr>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="#">Action</a>
+									<a class="dropdown-item" href="#">Another action</a>
+									<div class="dropdown-divider"></div>
+									<a class="dropdown-item" href="#">Something else here</a>
+								  </div>
+						</li >
 					<li  class="{{ Request::is('test-catalogo-acabados') ? 'active' : ''}}">
 						<a href="/test-catalogo-acabados">
 							CATALOGO DE + ACABADOS
 						</a> <hr>
 					</li>
 					<li class="{{ Request::is('test-contacto') ? 'active' : ''}}">
-						<a href="/test-contacto">
+						<a  href="" data-toggle="modal" data-target="#exampleModal">
 							CONTACTO
+						</a> <hr>
+					</li>
+					<li class="{{ Request::is('test-equipo-soporte') ? 'active' : ''}}">
+						<a href="/test-equipo-soporte">
+							DESCARGA DE ARCHIVOS
 						</a> <hr>
 					</li>
 				</ul>
@@ -118,24 +147,25 @@
 	@yield('content')
 	
 	<h3 class="text-center tex-gray mt-4 wow fadeInUp"><b>38 PLUS - PROYECTO INMOBILIARIO</b></h3>
+	<h4 class="text-center tex-gray mt-4 wow fadeInUp">(+57) 320 918 3759 <br> SALA DE VENTAS: Carrera 38 entre Calles 12 y 12a Puente Aranda <br> info@proyectosdamasco.com</h4>
 	<div class="container">
 	<div class="row mt-4 ">
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
 			<img src=" {{asset('images/clientes_img__07.png')}} ">
 		</div>
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.3s">
 			<img src=" {{asset('images/clientes_img_01.png')}} ">
 		</div>
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.5s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.5s">
 			<img src=" {{asset('images/clientes_img_02.png')}} ">
 		</div>
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.8s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="0.8s">
 			<img src=" {{asset('images/clientes_img_03.png')}} ">
 		</div>
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.1s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.1s">
 			<img src=" {{asset('images/clientes_img_04.png')}} ">
 		</div>
-		<div class="col-2 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.5s">
+		<div class="col-4 col-lg-2 mt-4 wow fadeInLeft" data-wow-delay="1.5s">
 			<img src=" {{asset('images/clientes_img_06.png')}} ">
 		</div>
 	</div>
@@ -203,7 +233,9 @@
 						</form>
 				  </div>
 				  <div class="col-12 col-lg-6">
-				  <img src=" {{ asset('images/mapa_mapa.png') }}">
+						<h4 class="text-left txt-white mt-4 wow fadeInUp">(+57) 320 918 3759 <br> SALA DE VENTAS: Carrera 38 entre Calles 12 y 12a Puente Aranda <br> info@proyectosdamasco.com</h4>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7272.984152571697!2d-74.10424832691959!3d4.6189027000008265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9985b27f1a8d%3A0xb2f26604b363b08!2sProyecto+38+Plus!5e0!3m2!1ses-419!2sco!4v1560391126835!5m2!1ses-419!2sco" 
+                 		width="100%" height="420px" frameborder="0" style="border:0" allowfullscreen></iframe>
 				  </div>
 			  </div>
 			  
@@ -214,12 +246,21 @@
 	  </div>
 	{{-- FIN MODAL --}}
 
-	<footer class="footer d-flex justify-content-center wow fadeInUp" data-wow-delay="1.8s">
-			<a href="http://www.casacreativa.co/" target="blank">
-				<img height="30px" src="{{asset('images/EXPORTS_casa_creativa.png')}} ">
+	<footer class="footer d-flex justify-content-center wow fadeInUp mb-4" data-wow-delay="1.8s">
+			<a href="http://www.casacreativa.co/" target="blank" class="">
+				<p class="text-center tex-red wow fadeInUp"> Diseñado y desarrollado por CasaCreativa</p>
 			</a>
 		</footer>
 </div>
+{{-- Abajo --}}
+<div class="fixed-bottom bg-gray d-flex justify-content-center ">
+	<p>
+		<i class="fas fa-arrow-circle-down txt-white mt-2 mb-2 animated infinite bounce"></i>
+	</p>
+</div>
+@include('modals.modal1')
+@include('modals.modal2')
+@include('modals.modal3')
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
